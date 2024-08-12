@@ -17,7 +17,7 @@ const router = createBrowserRouter([
     element: <App/>,
   },
   {
-    path: "/contact",
+    path: "/contact",// this path is for contact form 
     element: <Form/>,
   },
 ]);
