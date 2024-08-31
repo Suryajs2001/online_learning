@@ -1,0 +1,9 @@
+
+
+.home{
+    margin-top: 400ox;
+    height: 660px;
+    background-image: url('Homepage.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
